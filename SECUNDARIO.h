@@ -59,7 +59,7 @@ class Persona{
        edad[0]=fecha_actual[0]-fecha_nacimiento[0];
        cout<<" años "<<edad[0]<<" meses "<<edad[1]<<" dias "<<edad[2]<<endl;
        }	
-//OPCION 3 - INGRESE SU NOMBRE			
+//OPCION 3 - MANZABA ESCALANTE ALBERTO MOISÉS		
      void indicecorporal()
      {
        float peso, estatura, IMC;		
