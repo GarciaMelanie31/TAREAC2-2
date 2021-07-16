@@ -62,6 +62,7 @@ class Persona{
 //OPCION 3 - MANZABA ESCALANTE ALBERTO MOISÉS		
      void indicecorporal()
      {
+	     //Como el ususario ingresa su estatura en metros la formula para calcular el indice corporal es la siguiente (peso/estatura^2)
        float peso, estatura, IMC;		
        cout<<"Introduzca su peso (kg): ";
        cin>>peso;
@@ -86,18 +87,11 @@ class Persona{
        }	
 //OPCION 4 - MUSO LLUMIQUINGA CESAR GEOVANNY
     void guardardatos();
-	{
-       void escribir();
-       
-		
-int main(){
+    {
 	escribir()
 	system("pause");
 	return 0;
-		
-}
-
-void escribir(){
+    }
 	ofstream archivo;
 	
 	archivo.open("Persona.txt",ios::out); 
