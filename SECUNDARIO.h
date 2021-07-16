@@ -88,8 +88,29 @@ class Persona{
     void guardardatos()
     {
     }					
-//OPCIO 5 - INGRESE SU NOMBRE
+//OPCIO 5 - JONATHAN RAMIREZ PEREA 
     void recuperardatos()
     {
-    }
+	    cout<<"\nEsta opcion permite mostrar los datos del archivo de texto\n\n";
+		alber.lectura();
+		break;
+		
+		}
+		  if(op!=0){
+			    cout << "\nOpcion no permitida !\n" <<  "Press Enter to continue\n";
+    // pause the program until user input
+	           flag=cin.ignore().get();
+		  }		  
+	if(op==0){
+	cout<<"Salimos del Sistema: "<<endl;
+
+	}
+	}while(op!=0);
+	
+	system("pause");
+
+	return(0);
+
+     }
+    
 };
