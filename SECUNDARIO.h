@@ -1,4 +1,4 @@
-//GARCIA WILA MELANIE
+//OPCION 1 - GARCIA WILA MELANIE
 class Persona{	
  private:
 	string nombres, apellidos, cedula;
