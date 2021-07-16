@@ -87,51 +87,40 @@ class Persona{
 //OPCION 4 - MUSO LLUMIQUINGA CESAR GEOVANNY
     void guardardatos()
     {
-	    ofstream archivo;
-	
-	archivo.open("Secundario.txt",ios::out); 
-	
-	if(archivo.fail()){
-		cout<<"No se pudo abrir el archivo";
-		exit(1);
+       ofstream archivo;
+       archivo.open("Secundario.txt",ios::out); 
+       if(archivo.fail()){
+       cout<<"No se pudo abrir el archivo";
+       exit(1);
 	}
-	
-	archivo<<"DATOS PERSONALES"<<endl;
-	archivo<<"CEDULA";
-	archivo<<"NOMBRES";
-	archivo<<"APELLIDOS";
-	archivo<<"FECHA DE NACIMIENTO";
-	archivo<<"PESO";
-	archivo<<"ESTATURA";
-	archivo<<"EDAD";
-	archivo<<"INDICE DE MASA CORPORAL";
-	
-	archivo.close();
-}
-    }					
+       archivo<<"DATOS PERSONALES"<<endl;
+       archivo<<"CEDULA";
+       archivo<<"NOMBRES";
+       archivo<<"APELLIDOS";
+       archivo<<"FECHA DE NACIMIENTO";
+       archivo<<"PESO";
+       archivo<<"ESTATURA";
+       archivo<<"EDAD";
+       archivo<<"INDICE DE MASA CORPORAL";
+       archivo.close();
+   }				
 //OPCIO 5 - JONATHAN RAMIREZ PEREA 
     void recuperardatos()
     {
-	    cout<<"\nEsta opcion permite mostrar los datos del archivo de texto\n\n";
-		alber.lectura();
-		break;
-		
-		}
-		  if(op!=0){
-			    cout << "\nOpcion no permitida !\n" <<  "Press Enter to continue\n";
+       cout<<"\nEsta opcion permite mostrar los datos del archivo de texto\n\n";
+       secundario.lectura();
+       break;
+    }
+    if(op!=0){
+    cout << "\nOpcion no permitida !\n" <<  "Press Enter to continue\n";
     // pause the program until user input
-	           flag=cin.ignore().get();
-		  }		  
-	if(op==0){
-	cout<<"Salimos del Sistema: "<<endl;
-
-	}
-	}while(op!=0);
-	
-	system("pause");
-
-	return(0);
-
-     }
-    
+    flag=cin.ignore().get();
+    }		  
+    if(op==0){
+    cout<<"Salimos del Sistema: "<<endl;
+    }
+    }while(op!=0);
+     system("pause");
+     return(0);
+    }
 };
