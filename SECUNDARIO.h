@@ -32,7 +32,7 @@ class Persona{
        cout<<peso<<"\t";
        cout<<estatura<<"\t";
      }	
-//OPCION 2 - CONTRERAS MONTAÑO LUIS MIGUEL
+//OPCION 2 - CONTRERAS MONTAÑO LUIS MIGUEL.
      void edad()
      {
        string nombres;
