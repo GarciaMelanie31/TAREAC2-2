@@ -84,9 +84,30 @@ class Persona{
        if(35<=IMC)
        printf("\nTienes obesidad morbida");
        }	
-//OPCION 4 - INGRESE SU NOMBRE	
+//OPCION 4 - MUSO LLUMIQUINGA CESAR GEOVANNY
     void guardardatos()
     {
+	    ofstream archivo;
+	
+	archivo.open("Secundario.txt",ios::out); 
+	
+	if(archivo.fail()){
+		cout<<"No se pudo abrir el archivo";
+		exit(1);
+	}
+	
+	archivo<<"DATOS PERSONALES"<<endl;
+	archivo<<"CEDULA";
+	archivo<<"NOMBRES";
+	archivo<<"APELLIDOS";
+	archivo<<"FECHA DE NACIMIENTO";
+	archivo<<"PESO";
+	archivo<<"ESTATURA";
+	archivo<<"EDAD";
+	archivo<<"INDICE DE MASA CORPORAL";
+	
+	archivo.close();
+}
     }					
 //OPCIO 5 - INGRESE SU NOMBRE
     void recuperardatos()
