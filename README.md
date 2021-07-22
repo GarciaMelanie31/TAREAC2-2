@@ -1,5 +1,5 @@
 # 🗂 PROYECTO FINAL
-Este archivo se refleja una detalla documentacion de la ACTIVIDAD C2-2 en la cual muestra los codigos en C++ para realizar un pequeño programa que nos permite recopilar datos de una determinada persona implemantando el uso de clases y objetos.
+Se refleja una detalla documentacion de la ACTIVIDAD C2-2 en la cual muestra los codigos en C++ para realizar un pequeño programa que nos permite recopilar datos de una determinada persona implemantando el uso de clases y objetos.
 
 # PARTICIPANTES 📝
 El programa esta compuesto por dos archivos una de extension .cpp (PRINCIPALC2-2) y otro de extension .h (SECUNDARIO).
