@@ -20,6 +20,21 @@ _En el archivo .cpp declare la funciòn que permite llamar a la funciòn del arc
 _En el archivo .cpp declare la funciòn que permite llamar a la funciòn del archivo .h la cual contiene el proceso para que se realice la ejecuciòn de la opciòn 5 la cual nos indica que se debe recuperar los datos de la persona desde el archivo.txt._ 
 
 ### COMPOSICIÒN 📖
+La ACTIVIDAD C2-2 está compuesta por dos archivos uno de extensión .cpp al cual lo denominamos  PRINCIPALC2-2.cpp y otro de extensión .h al cual lo denominamos SECUNDARIO.h
+ Un archivo .cpp es un archivo de código fuente escrito en C++ que  agrega características como la programación orientada objetos a C. puede ser un programa independiente o un implemento de archivos en un proyecto de desarrollo. Loa archivos CPP deben ser compilados por un compilador C++, existen programas que abren archivos CPP como:
+ Un archivo .h es aquel que contribuye un buen método para externalizar las funciones utilizadas a menudo. Algunos programas que admiten la extensión de archivo .h son:
+
+DESCRIPCIÒN DE CADA ARCHIVO 
+Nombre del archivo: PRINCIPALC2-2.cpp
+Nombre de la clase: Persona (class person)
+FUNCIÒN IMPLEMENTADA: int main
+La función int main es la función principal del programa ya que es el punto de partida para la ejecución del programa. Esta función controla la ejecución del programa dirigiendo las llamadas a otras funciones del mismo. 
+
+Nombre del archivo: SECUNDARIO.h
+Nombre de la clase: Persona (class person)
+FUNCIÒN IMPLEMENTADA: void
+La función void es una función nula que indica que no retorna valores 
+
 ### DESCRIPCIÒN 📋
 ### INSTALACIÒN 🔧
 ### EJECUCIÒN ⚙️
