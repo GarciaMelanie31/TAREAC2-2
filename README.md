@@ -166,15 +166,15 @@ _**return.-** Se utiliza para una salida inmediata o para devolver un valor._
 
 ### INSTALACIÒN 🔧
 
-Dev C++ es un entorno de desarrollo integrado para programar en lenguaje C o C++.
+_Dev C++ es un entorno de desarrollo integrado para programar en lenguaje C o C++._
 
 **PASOS PARA INSTALAR DEV C++ EN WINDOWS**
 
-A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina para descargar el programa.
+_A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina para descargar el programa._
 
-Una vez que hayas ingresado al link debes seguir los siguientes pasos:
+_Una vez que hayas ingresado al link debes seguir los siguientes pasos:_
 
-1.- Dar clic en el botòn verde que aparece en la pàgina que dice “descargar gratis para Windows” que aparece en la pàgina.
+1.- Dar clic en el botòn verde que aparece en la pàgina que dice **“descargar gratis para Windows”** que aparece en la pàgina.
 
 2.- Despuès de  unos minutos se completarà la carga del instalador.
 
@@ -200,6 +200,6 @@ Una vez que hayas ingresado al link debes seguir los siguientes pasos:
 
 13.- Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn **NEXT**.
 
-14. Finalmente para completar la configuraciòn da clic sobre le botòn OK y automàticamente se abre el programa donde puedes crear tus programas.
+14. Finalmente para completar la configuraciòn da clic sobre le botòn **OK** y automàticamente se abre el programa donde puedes crear tus programas.
 
 ### EJECUCIÒN ⚙️
