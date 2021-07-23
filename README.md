@@ -34,86 +34,131 @@ La ACTIVIDAD C2-2 está compuesta por dos archivos uno de extensión .cpp al cua
 **DESCRIPCIÒN DE CADA ARCHIVO** 
 
 **Nombre del archivo:** PRINCIPALC2-2.cpp
+
 **Nombre de la clase:** Persona (class person)
+
 **FUNCIÒN IMPLEMENTADA:** 
+
 **1. int main**
 La función **int main** es la función principal del programa ya que es el punto de partida para la ejecución del programa. Esta función controla la ejecución del programa dirigiendo las llamadas a otras funciones del mismo. 
+
 **2. system**
 La funciòn **system** ejecuta subprocesos o comandos del sistema operativo.
 
 **Nombre del archivo:** SECUNDARIO.h
+
 **Nombre de la clase:** Persona (class person)
+
 **FUNCIÒN IMPLEMENTADA:**
+
 **1. void**
 La función **void** es una función nula que indica que no retorna valores 
 
 ### DESCRIPCIÒN 📋
 
 **Nombre del archivo:** PRINCIPALC2-2.cpp
+
 **Nombre de la clase:** Persona
 
 **EVENTOS O FUNCIONES IMPLEMENTADAS**
 
 **LIBRERÌAS**
+
 **iostream.-** Sirve para tener acceso a los dispositivos estándar entrada/salida (cin, cout, getline...)
+
 **stdlib.h.-** Tienes los prototipos de las funciones para gestionar la memoria dinámica, contralar procesos, etc.
+
 **string.h.-** Manipula cadenas: copiar, cambiar caracteres, comparar cadenas, etc.
+
 **malloc.h.-** Sirve para solicitar un bloque de memoria del tamaño requerido como parámetro.
+
 **fstream.-** Librería requerida para abrir y cerrar archivos.txt también para realizar operaciones de lectura y escritura de datos en archivos.txt.
-**using namespace std; .-** Da acceso al espacio de nombres std, es donde se encuentra encerrada toda la librería. 
+
+**using namespace std; .-** Da acceso al espacio de nombres std, es donde se encuentra encerrada toda la librería.
+
 **include "SECUNDARIO.h”.-** Sirve para hacer el llamado al archivo de extensión .h (SECUNDARIO.h)
+
   
 **FUNCIONES**
+
 **int main.-** es la función principal del programa ya que es el punto de partida para la ejecución del programa. Esta función controla la ejecución del programa dirigiendo las llamadas a otras funciones del mismo. 
+
 **system.-** Ejecuta subprocesos o comandos del sistema operativo.
   
 **ESTRADAS/SALIDAS STÀNDAR**
+
 **cout.-** Permite mostrar por pantalla cualquier tipo de dato o mensaje con el operador <<.
+
 **cin.-** Se utiliza para introducir datos con el operador >>.
+
 **endl.-** Significa salto de línea es utilizado para dar más estaca o presentación de los datos que se imprimen.
   
 **TIPOS DE DATOS O VARIABLES**
-**int.-** Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…)
-**float.-** Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…)
+
+**int.-** Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…).
+
+**float.-** Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…).
   
 **CONDICIONALES**
+
 **switch.-** Permite declarar múltiples casos que llegan a cumplir una variable cualquiera.
+
 **if.-** Posibilita definir las acciones a ejecutarse si se cumple una condición determinada.
   
 **SENTENCIAS** 
+
 **return.-** Se utiliza para una salida inmediata o para devolver un valor.
+
 **case.-** Crea una etiqueta para evaluar un caso que se compara con la expresión que recibe switch.
+
 **break.-** Detiene la ejecución de un bucle y salirse de él.
   
 **Nombre del archivo:** SECUNDARIO.h
+
 **Nombre de la clase:** Persona
+
 **EVENTOS O FUNCIONES IMPLEMENTADAS**
 
 **class.-** es la colección de variables (atributos) y funciones (métodos) que permiten un conjunto de datos y especificar sus procesos que permiten manipular dichos datos.
+
 **private.-** Los métodos y campos de una clase declarados en private no son accesibles fuera de la unidad donde se declare dicha clase.
+
 **public.-** Los métodos y campos de una clase declarados en public son libre de acceso desde cualquier otro lugar de un programa.
   
 **TIPOS DE DATOS O VARIABLES**
+
 **string.-** Se utiliza para declarar una cadena de caracteres alfabéticos (nombres, frases, etc)
-**int.-** Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…)
-**float.-** Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…)
+.
+**int.-** Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…).
+
+**float.-** Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…).
   
 **FUNCIONES**
+
 **void.-** es una función nula que indica que no retorna valores 
+
 **system.-** Ejecuta subprocesos o comandos del sistema operativo.
   
 **CONDICIONALES**
+
 **else.-** Permite determinar qué acción tomar expuesta una condición.
+
 **if.-** Posibilita definir las acciones a ejecutarse si se cumple una condición determinada.
   
 **ESTRADAS/SALIDAS STÀNDAR**
+
 **cout.-** Permite mostrar por pantalla cualquier tipo de dato o mensaje con el operador <<.
+
 **cin.-** Se utiliza para introducir datos con el operador >>.
+
 **endl.-** Significa salto de línea es utilizado para dar más estaca o presentación de los datos que se imprimen. 
+
 **getline.-** Permite dar un salto de lineo o un espacio entre dos caracteres.
   
 **SENTENCIAS** 
+
 **break.-** Detiene la ejecución de un bucle y salirse de él.
+
 **return.-** Se utiliza para una salida inmediata o para devolver un valor.
 
 ### INSTALACIÒN 🔧
