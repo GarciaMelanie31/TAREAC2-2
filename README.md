@@ -24,9 +24,11 @@ _En el archivo .cpp declare la funciòn que permite llamar a la funciòn del arc
 La ACTIVIDAD C2-2 está compuesta por dos archivos uno de extensión .cpp al cual lo denominamos  PRINCIPALC2-2.cpp y otro de extensión .h al cual lo denominamos SECUNDARIO.h.
 
 - Un archivo **.cpp** es un archivo de código fuente escrito en C++ que  agrega características como la programación orientada objetos a C. puede ser un programa independiente o un implemento de archivos en un proyecto de desarrollo. Loa archivos CPP deben ser compilados por un compilador C++, existen programas que abren archivos CPP como:
+
 ![image](https://user-images.githubusercontent.com/86171662/126726263-78f5ba1b-a2c8-418c-b2be-1264d8014915.png) ![image](https://user-images.githubusercontent.com/86171662/126726275-3f9bebb1-c604-41fe-bbfa-0ff387403d8b.png) ![image](https://user-images.githubusercontent.com/86171662/126726285-ccfee5ee-d25c-4b72-8d8a-08a6552ab779.png)
 
 - Un archivo **.h** es aquel que contribuye un buen método para externalizar las funciones utilizadas a menudo. Algunos programas que admiten la extensión de archivo .h son:
+
 ![image](https://user-images.githubusercontent.com/86171662/126726410-4b942e37-0ca5-4a7b-b5ec-1d5e0c809cb2.png) ![image](https://user-images.githubusercontent.com/86171662/126726424-8ff6bd01-f2a0-4a5c-9b99-992b2fa9bb9c.png) ![image](https://user-images.githubusercontent.com/86171662/126726436-18c4e836-66b9-4ebc-bad0-25ca6ff551ad.png)
 
 **DESCRIPCIÒN DE CADA ARCHIVO** 
