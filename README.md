@@ -212,13 +212,27 @@ _La ejecución puede ser de dos formas._
 
 **1.-** _Nos dirigimos a la barra de herramientas o menú y damos clic sobre_ **EJECUTAR**. 
 
+![image](https://user-images.githubusercontent.com/86171662/126819842-9d1b9cc8-9a56-464c-a01a-5f368c72d83c.png)
+
 **2.-** _Después de dar clic sobre_ **EJECUTAR** _aparecerá una lista de opciones donde seleccionamos_ **COMPILAR**.
+
+![image](https://user-images.githubusercontent.com/86171662/126819903-50e9d25e-3432-43a0-8bc9-600636780aa5.png)
 
 **3.-** _Una vez completado el proceso de compilamiento nos dirigimos nuevamente la barra de herramientas o menú y damos clic sobre_ **EJECUTAR**.
 
+![image](https://user-images.githubusercontent.com/86171662/126820888-7878ec7e-78bb-42ee-bd77-fb02f962d2a7.png)
+
 **4.-** _Luego en la lista de opciones seleccionamos_ **EJECUTAR** _entonces aparecerá la ventana del ejecutable del programa donde podrás realizar el procedimiento de tu programa._
 
+![image](https://user-images.githubusercontent.com/86171662/126820951-75791bb9-e391-4e0e-9d5c-cc028002cd41.png)
+
 **5.-** _O simplemente cuando nos aparece la lista de opciones al dar clic en_ **EJECUTAR** _seleccionamos la opción_ **COMPILAR Y EJECUTAR** _donde se realizaran los dos procesos automáticamente._
+
+![image](https://user-images.githubusercontent.com/86171662/126821042-9be83b6f-5f93-4676-ab9a-46d0021dfeb2.png)
+**PROCESO DE COMPILACIÒN**
+
+![image](https://user-images.githubusercontent.com/86171662/126821121-123d51d9-f6b7-4954-bf87-1bc825d40e2d.png)
+**PROCE DE EJECUCIÒN**
 
 **FORMA 2 DE EJECUCION** 
 
