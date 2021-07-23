@@ -165,5 +165,22 @@ _**break.-** Detiene la ejecución de un bucle y salirse de él._
 _**return.-** Se utiliza para una salida inmediata o para devolver un valor._
 
 ### INSTALACIÒN 🔧
-
+Dev C++ es un entorno de desarrollo integrado para programar en lenguaje C o C++.
+PASOS PARA INSTALAR DEV C++ EN WINDOWS
+A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina para descargar el programa.
+Una vez que hayas ingresado al link debes seguir los siguientes pasos:
+1.- Dar clic en el botòn verde que aparece en la pàgina que dice “descargar gratis para Windows” que aparece en la pàgina.
+2.- Despuès de  unos minutos se completarà la carga del instalador.
+3.- Una vez ya completado el proceso de descarga debes dirigirte a la carpeta DESCARGAS de tu PC donde encontraràs el archivo ejecutable del programa.
+4.- Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn EJECUTAR COMO ADMINISTRADOR.
+5.- Damos los permiso correspondientes para la instalaciòn del software y aparecerà una ventana donde muestra el proceso de carga de los archivos del ejecutable.
+6.- Seleccionamos el idioma correspondiente.
+7.- Luego aparece una ventana que muestra el acuerdo de licencia donde debemos dar clic en ACEPTO.
+8.- Seleccionamos el tipo de instalaciòn està puede ser completa, personalizada, mìnima o segura (selecciona la de tu preferencia), luego da clic en SIGUIENTE.
+9.- Seleccionamos el directorio de destino del ejecutable del programa y damos clic en INSTALAR.
+10.- Esperamos a que se complete la barra de carga.
+11.- Una vez completada la instalaciòn damos clic sobre el botòn TERMINAR.
+12.- Automàticamente se abre una ventana para la configuraciòn de la interfaz, seleccionamos el lenguaje para los menùs del software (selecciona el de tu preferencia) luego damos clic sobre el botòn NEXT.
+13.- Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn NEXT.
+14. Finalmente para completar la configuraciòn da clic sobre le botòn OK y automàticamente se abre el programa donde puedes crear tus programas.
 ### EJECUCIÒN ⚙️
