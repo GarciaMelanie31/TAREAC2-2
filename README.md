@@ -174,33 +174,33 @@ _A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina pa
 
 _Una vez que hayas ingresado al link debes seguir los siguientes pasos:_
 
-**1.-** _Dar clic en el botòn verde que aparece en la pàgina que dice **“descargar gratis para Windows”** que aparece en la pàgina._
+**1.-** _Dar clic en el botòn verde que aparece en la pàgina que dice_ **“descargar gratis para Windows”** _que aparece en la pàgina._
 
 **2.-** _Despuès de  unos minutos se completarà la carga del instalador._
 
 **3.-** _Una vez ya completado el proceso de descarga debes dirigirte a la carpeta DESCARGAS de tu PC donde encontraràs el archivo ejecutable del programa._
 
-**4.-** _Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn **EJECUTAR COMO ADMINISTRADOR**._
+**4.-** _Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn_ **EJECUTAR COMO ADMINISTRADOR**.
 
 **5.-** _Damos los permiso correspondientes para la instalaciòn del software y aparecerà una ventana donde muestra el proceso de carga de los archivos del ejecutable._
 
 **6.-** _Seleccionamos el idioma correspondiente._
 
-**7.-** _Luego aparece una ventana que muestra el acuerdo de licencia donde debemos dar clic en **ACEPTO**._
+**7.-** _Luego aparece una ventana que muestra el acuerdo de licencia donde debemos dar clic en_ **ACEPTO**.
 
-**8.-** _Seleccionamos el tipo de instalaciòn està puede ser completa, personalizada, mìnima o segura (selecciona la de tu preferencia), luego da clic en **SIGUIENTE**._
+**8.-** _Seleccionamos el tipo de instalaciòn està puede ser completa, personalizada, mìnima o segura (selecciona la de tu preferencia), luego da clic en_ **SIGUIENTE**.
 
-**9.-** _Seleccionamos el directorio de destino del ejecutable del programa y damos clic en **INSTALAR**._
+**9.-** _Seleccionamos el directorio de destino del ejecutable del programa y damos clic en_ **INSTALAR**.
 
 **10.-** _Esperamos a que se complete la barra de carga._
 
-**11.-** _Una vez completada la instalaciòn damos clic sobre el botòn **TERMINAR**._
+**11.-** _Una vez completada la instalaciòn damos clic sobre el botòn_ **TERMINAR**.
 
-**12.-** _Automàticamente se abre una ventana para la configuraciòn de la interfaz, seleccionamos el lenguaje para los menùs del software (selecciona el de tu preferencia) luego damos clic sobre el botòn **NEXT**._
+**12.-** _Automàticamente se abre una ventana para la configuraciòn de la interfaz, seleccionamos el lenguaje para los menùs del software (selecciona el de tu preferencia) luego damos clic sobre el botòn_ **NEXT**.
 
-**13.-** _Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn **NEXT**._
+**13.-** _Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn_ **NEXT**.
 
-**14.-** _Finalmente para completar la configuraciòn da clic sobre le botòn **OK** y automàticamente se abre el programa donde puedes crear tus programas._
+**14.-** _Finalmente para completar la configuraciòn da clic sobre le botòn_ **OK** _y automàticamente se abre el programa donde puedes crear tus programas._
 
 ### EJECUCIÒN ⚙️
 
@@ -210,25 +210,25 @@ _La ejecución puede ser de dos formas._
 
 **FORMA 1 DE EJECUCIÒN**
 
-**1.-** _Nos dirigimos a la barra de herramientas o menú y damos clic sobre **EJECUTAR**._
+**1.-** _Nos dirigimos a la barra de herramientas o menú y damos clic sobre_ **EJECUTAR**.
 
-**2.-** _Después de dar clic sobre **EJECUTAR** aparecerá una lista de opciones donde seleccionamos **COMPILAR**._
+**2.-** _Después de dar clic sobre_ **EJECUTAR** _aparecerá una lista de opciones donde seleccionamos_ **COMPILAR**.
 
-**3.-** _Una vez completado el proceso de compilamiento nos dirigimos nuevamente la barra de herramientas o menú y damos clic sobre **EJECUTAR**._
+**3.-** _Una vez completado el proceso de compilamiento nos dirigimos nuevamente la barra de herramientas o menú y damos clic sobre_ **EJECUTAR**.
 
-**4.-** _Luego en la lista de opciones seleccionamos **EJECUTAR** entonces aparecerá la ventana del ejecutable del programa donde podrás realizar el procedimiento de tu programa._
+**4.-** _Luego en la lista de opciones seleccionamos_ **EJECUTAR** _entonces aparecerá la ventana del ejecutable del programa donde podrás realizar el procedimiento de tu programa._
 
-**5.-** _O simplemente cuando nos aparece la lista de opciones al dar clic en **EJECUTAR** seleccionamos la opción **COMPILAR Y EJECUTAR** donde se realizaran los dos procesos automáticamente._
+**5.-** _O simplemente cuando nos aparece la lista de opciones al dar clic en_ **EJECUTAR** _seleccionamos la opción_ **COMPILAR Y EJECUTAR** _donde se realizaran los dos procesos automáticamente._
 
 **FORMA 2 DE EJECUCION** 
 
-**1.-** _Una vez terminado nuestro programa presionamos la tecla **F9** para **COMPILAR**.
+**1.-** _Una vez terminado nuestro programa presionamos la tecla_ **F9** _para_ **COMPILAR**.
 
 **2.-** _Automáticamente se realiza el proceso de compila miento._
 
-**3.-** _Una vez terminado el proceso de compilamiento presionamos la tecla **F10** para  **EJECUTAR**._
+**3.-** _Una vez terminado el proceso de compilamiento presionamos la tecla_ **F10** _para_  **EJECUTAR**.
 
 **4.-** _Automáticamente el programa se ejecutarà y mostrar la ventana del ejecutable de programa y realizar el proceso de tu programa._
 
-**5.-** _O simplemente presionamos la tecla **F11** y automáticamente el programa realiza la compilación y ejecución del mismo._
+**5.-** _O simplemente presionamos la tecla_ **F11** _y automáticamente el programa realiza la compilación y ejecución del mismo._
 
