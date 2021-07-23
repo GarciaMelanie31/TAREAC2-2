@@ -172,13 +172,21 @@ _Dev C++ es un entorno de desarrollo integrado para programar en lenguaje C o C+
 
 _A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina para descargar el programa._
 
+https://bloodshed-dev-c.softonic.com/descargar 
+
 _Una vez que hayas ingresado al link debes seguir los siguientes pasos:_
 
 **1.-** _Dar clic en el botòn verde que aparece en la pàgina que dice_ **“descargar gratis para Windows”** _que aparece en la pàgina._
 
+![image](https://user-images.githubusercontent.com/86171662/126824084-72bc95dd-e292-4a82-8efa-964060e90181.png)
+
 **2.-** _Despuès de  unos minutos se completarà la carga del instalador._
 
+![image](https://user-images.githubusercontent.com/86171662/126824661-c1184e55-6b82-41ce-9f5e-d6d6e09079f9.png)
+
 **3.-** _Una vez ya completado el proceso de descarga debes dirigirte a la carpeta DESCARGAS de tu PC donde encontraràs el archivo ejecutable del programa._
+
+![image](https://user-images.githubusercontent.com/86171662/126825145-308279ec-a1ec-481a-8616-df1f4e686e42.png)
 
 **4.-** _Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn_ **EJECUTAR COMO ADMINISTRADOR**.
 
