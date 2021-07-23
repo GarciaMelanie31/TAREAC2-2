@@ -222,26 +222,46 @@ _La ejecución puede ser de dos formas._
 
 ![image](https://user-images.githubusercontent.com/86171662/126820888-7878ec7e-78bb-42ee-bd77-fb02f962d2a7.png)
 
-**4.-** _Despuès de seleccionar la opciòn _ **EJECUTAR** _aparecerá la ventana del ejecutable del programa donde podrás realizar el procedimiento de tu programa._
+**4.-** _Despuès de seleccionar la opciòn_ **EJECUTAR** _aparecerá la ventana del ejecutable del programa donde podrás realizar el procedimiento de tu programa._
 
 ![image](https://user-images.githubusercontent.com/86171662/126820951-75791bb9-e391-4e0e-9d5c-cc028002cd41.png)
 
 **5.-** _O simplemente cuando nos aparece la lista de opciones al dar clic en_ **EJECUTAR** _seleccionamos la opción_ **COMPILAR Y EJECUTAR** _donde se realizaran los dos procesos automáticamente._
 
-**PROCESO DE COMPILACIÒN**![image](https://user-images.githubusercontent.com/86171662/126821042-9be83b6f-5f93-4676-ab9a-46d0021dfeb2.png)
+**PROCESO DE COMPILACIÒN**
+![image](https://user-images.githubusercontent.com/86171662/126821042-9be83b6f-5f93-4676-ab9a-46d0021dfeb2.png)
 
-
-**PROCESO DE EJECUCIÒN**![image](https://user-images.githubusercontent.com/86171662/126821121-123d51d9-f6b7-4954-bf87-1bc825d40e2d.png)
+**PROCESO DE EJECUCIÒN**
+![image](https://user-images.githubusercontent.com/86171662/126821121-123d51d9-f6b7-4954-bf87-1bc825d40e2d.png)
 
 **FORMA 2 DE EJECUCION** 
 
-**1.-** _Una vez terminado nuestro programa presionamos la tecla_ **F9** _para_ **COMPILAR**.
+**1.-** _Una vez terminado nuestro programa presionamos la tecla_ **F9** _del teclado para_ **COMPILAR**.
 
-**2.-** _Automáticamente se realiza el proceso de compila miento._
+![image](https://user-images.githubusercontent.com/86171662/126822536-4d2044f2-fcfd-4450-ad85-34940055e253.png)
 
-**3.-** _Una vez terminado el proceso de compilamiento presionamos la tecla_ **F10** _para_  **EJECUTAR**.
+_Automáticamente se realiza el proceso de compilamiento._
 
-**4.-** _Automáticamente el programa se ejecutarà y mostrar la ventana del ejecutable de programa y realizar el proceso de tu programa._
+![image](https://user-images.githubusercontent.com/86171662/126822586-1fd4b71e-38f1-4df2-a48d-dbbc5a4a29eb.png)
 
-**5.-** _O simplemente presionamos la tecla_ **F11** _y automáticamente el programa realiza la compilación y ejecución del mismo._
+**2.-** _Una vez terminado el proceso de compilamiento presionamos la tecla_ **F10** _ del tecaldo para_  **EJECUTAR**.
 
+![image](https://user-images.githubusercontent.com/86171662/126822854-99fa8ae5-0a7b-4c7a-95c8-08797c64515a.png)
+
+_Automáticamente aparece la ventana del ejecutable para realizar el debido proceso del programa._
+
+![image](https://user-images.githubusercontent.com/86171662/126822972-49b09359-4529-4c48-90d1-ea7ff88e4e7c.png)
+
+**5.-** _O simplemente presionamos la tecla_ **F11**. 
+
+![image](https://user-images.githubusercontent.com/86171662/126823149-be4744df-c98c-4a90-a182-9cf16b4ef317.png)
+
+_Automáticamente el programa realiza la compilación y ejecución del mismo._
+
+**PROCESO DE COMPILACIÒN**
+
+![image](https://user-images.githubusercontent.com/86171662/126823319-55b88217-f926-41b1-a1f3-c91a4fb8554f.png)
+
+**PROCESO DE EJECUCIÒN**
+
+![image](https://user-images.githubusercontent.com/86171662/126821042-9be83b6f-5f93-4676-ab9a-46d0021dfeb2.png)
