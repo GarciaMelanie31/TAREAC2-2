@@ -210,7 +210,7 @@ _La ejecución puede ser de dos formas._
 
 **FORMA 1 DE EJECUCIÒN**
 
-**1.-** _Nos dirigimos a la barra de herramientas o menú y damos clic sobre_ **EJECUTAR**.
+**1.-** _Nos dirigimos a la barra de herramientas o menú y damos clic sobre_ **EJECUTAR**. 
 
 **2.-** _Después de dar clic sobre_ **EJECUTAR** _aparecerá una lista de opciones donde seleccionamos_ **COMPILAR**.
 
