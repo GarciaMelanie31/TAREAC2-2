@@ -229,9 +229,11 @@ _La ejecución puede ser de dos formas._
 **5.-** _O simplemente cuando nos aparece la lista de opciones al dar clic en_ **EJECUTAR** _seleccionamos la opción_ **COMPILAR Y EJECUTAR** _donde se realizaran los dos procesos automáticamente._
 
 **PROCESO DE COMPILACIÒN**
+
 ![image](https://user-images.githubusercontent.com/86171662/126821042-9be83b6f-5f93-4676-ab9a-46d0021dfeb2.png)
 
 **PROCESO DE EJECUCIÒN**
+
 ![image](https://user-images.githubusercontent.com/86171662/126821121-123d51d9-f6b7-4954-bf87-1bc825d40e2d.png)
 
 **FORMA 2 DE EJECUCION** 
