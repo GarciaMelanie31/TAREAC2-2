@@ -33,136 +33,136 @@ _- Un archivo **.h** es aquel que contribuye un buen método para externalizar l
 
 **DESCRIPCIÒN DE CADA ARCHIVO** 
 
-_**Nombre del archivo:** PRINCIPALC2-2.cpp_
+**Nombre del archivo:** _PRINCIPALC2-2.cpp_
 
-_**Nombre de la clase:** Persona (class person)_
+**Nombre de la clase:** _Persona (class person)_
 
-_**FUNCIÒN IMPLEMENTADA:**_
+**FUNCIÒN IMPLEMENTADA:**
 
-_**1. int main**_
+**1. int main**
 
 _La función **int main** es la función principal del programa ya que es el punto de partida para la ejecución del programa. Esta función controla la ejecución del programa dirigiendo las llamadas a otras funciones del mismo._ 
 
-_**2. system**_
+**2. system**
 
 _La funciòn **system** ejecuta subprocesos o comandos del sistema operativo._
 
-_**Nombre del archivo:** SECUNDARIO.h_
+**Nombre del archivo:** _SECUNDARIO.h_
 
-_**Nombre de la clase:** Persona (class person)_
+**Nombre de la clase:** _Persona (class person)_
 
-_**FUNCIÒN IMPLEMENTADA:**_
+**FUNCIÒN IMPLEMENTADA:**
 
-_**1. void**_
+**1. void**
 
 _La función **void** es una función nula que indica que no retorna valores_ 
 
 ### DESCRIPCIÒN 📋
 
-_**Nombre del archivo:** PRINCIPALC2-2.cpp_
+**Nombre del archivo:** _PRINCIPALC2-2.cpp_
 
-_**Nombre de la clase:** Persona_
-
-_**EVENTOS O FUNCIONES IMPLEMENTADAS**_
-
-**LIBRERÌAS**
-
-_**iostream.-** Sirve para tener acceso a los dispositivos estándar entrada/salida (cin, cout, getline...)_
-
-_**stdlib.h.-** Tienes los prototipos de las funciones para gestionar la memoria dinámica, contralar procesos, etc._
-
-_**string.h.-** Manipula cadenas: copiar, cambiar caracteres, comparar cadenas, etc._
-
-_**malloc.h.-** Sirve para solicitar un bloque de memoria del tamaño requerido como parámetro._
-
-_**fstream.-** Librería requerida para abrir y cerrar archivos.txt también para realizar operaciones de lectura y escritura de datos en archivos.txt._
-
-_**using namespace std; .-** Da acceso al espacio de nombres std, es donde se encuentra encerrada toda la librería._
-
-_**include "SECUNDARIO.h”.-** Sirve para hacer el llamado al archivo de extensión .h (SECUNDARIO.h)_
-
-  
-**FUNCIONES**
-
-_**int main.-** es la función principal del programa ya que es el punto de partida para la ejecución del programa. Esta función controla la ejecución del programa dirigiendo las llamadas a otras funciones del mismo._
-
-_**system.-** Ejecuta subprocesos o comandos del sistema operativo._
-  
-**ESTRADAS/SALIDAS STÀNDAR**
-
-_**cout.-** Permite mostrar por pantalla cualquier tipo de dato o mensaje con el operador <<._
-
-_**cin.-** Se utiliza para introducir datos con el operador >>._
-
-_**endl.-** Significa salto de línea es utilizado para dar más estaca o presentación de los datos que se imprimen._
-  
-**TIPOS DE DATOS O VARIABLES**
-
-_**int.-** Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…)._
-
-_**float.-** Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…)._
-  
-**CONDICIONALES**
-
-_**switch.-** Permite declarar múltiples casos que llegan a cumplir una variable cualquiera._
-
-_**if.-** Posibilita definir las acciones a ejecutarse si se cumple una condición determinada._
-  
-**SENTENCIAS** 
-
-_**return.-** Se utiliza para una salida inmediata o para devolver un valor._
-
-_**case.-** Crea una etiqueta para evaluar un caso que se compara con la expresión que recibe switch._
-
-_**break.-** Detiene la ejecución de un bucle y salirse de él._
-  
-_**Nombre del archivo:** SECUNDARIO.h_
-
-_**Nombre de la clase:** Persona_
+**Nombre de la clase:** _Persona_
 
 **EVENTOS O FUNCIONES IMPLEMENTADAS**
 
-_**class.-** es la colección de variables (atributos) y funciones (métodos) que permiten un conjunto de datos y especificar sus procesos que permiten manipular dichos datos._
+**LIBRERÌAS**
 
-_**private.-** Los métodos y campos de una clase declarados en private no son accesibles fuera de la unidad donde se declare dicha clase._
+**iostream.-** _Sirve para tener acceso a los dispositivos estándar entrada/salida (cin, cout, getline...)_
 
-_**public.-** Los métodos y campos de una clase declarados en public son libre de acceso desde cualquier otro lugar de un programa._
-  
-**TIPOS DE DATOS O VARIABLES**
+**stdlib.h.-** _Tienes los prototipos de las funciones para gestionar la memoria dinámica, contralar procesos, etc._
 
-_**string.-** Se utiliza para declarar una cadena de caracteres alfabéticos (nombres, frases, etc)._
-.
-_**int.-** Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…)._
+**string.h.-** _Manipula cadenas: copiar, cambiar caracteres, comparar cadenas, etc._
 
-_**float.-** Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…)._
+**malloc.h.-** _Sirve para solicitar un bloque de memoria del tamaño requerido como parámetro._
+
+**fstream.-** _Librería requerida para abrir y cerrar archivos.txt también para realizar operaciones de lectura y escritura de datos en archivos.txt._
+
+**using namespace std; .-** _Da acceso al espacio de nombres std, es donde se encuentra encerrada toda la librería._
+
+**include "SECUNDARIO.h”.-** _Sirve para hacer el llamado al archivo de extensión .h (SECUNDARIO.h)_
+
   
 **FUNCIONES**
 
-_**void.-** es una función nula que indica que no retorna valores._ 
+**int main.-** _Es la función principal del programa ya que es el punto de partida para la ejecución del programa. Esta función controla la ejecución del programa dirigiendo las llamadas a otras funciones del mismo._
 
-_**system.-** Ejecuta subprocesos o comandos del sistema operativo._
-  
-**CONDICIONALES**
-
-_**else.-** Permite determinar qué acción tomar expuesta una condición._
-
-_**if.-** Posibilita definir las acciones a ejecutarse si se cumple una condición determinada._
+**system.-** _Ejecuta subprocesos o comandos del sistema operativo._
   
 **ESTRADAS/SALIDAS STÀNDAR**
 
-_**cout.-** Permite mostrar por pantalla cualquier tipo de dato o mensaje con el operador <<._
+**cout.-** _Permite mostrar por pantalla cualquier tipo de dato o mensaje con el operador <<._
 
-_**cin.-** Se utiliza para introducir datos con el operador >>._
+**cin.-** _Se utiliza para introducir datos con el operador >>._
 
-_**endl.-** Significa salto de línea es utilizado para dar más estaca o presentación de los datos que se imprimen._ 
+**endl.-** _Significa salto de línea es utilizado para dar más estaca o presentación de los datos que se imprimen._
+  
+**TIPOS DE DATOS O VARIABLES**
 
-_**getline.-** Permite dar un salto de lineo o un espacio entre dos caracteres._
+**int.-** _Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…)._
+
+**float.-** _Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…)._
+  
+**CONDICIONALES**
+
+**switch.-** _Permite declarar múltiples casos que llegan a cumplir una variable cualquiera._
+
+**if.-** _Posibilita definir las acciones a ejecutarse si se cumple una condición determinada._
   
 **SENTENCIAS** 
 
-_**break.-** Detiene la ejecución de un bucle y salirse de él._
+**return.-** _Se utiliza para una salida inmediata o para devolver un valor._
 
-_**return.-** Se utiliza para una salida inmediata o para devolver un valor._
+**case.-** _Crea una etiqueta para evaluar un caso que se compara con la expresión que recibe switch._
+
+**break.-** _Detiene la ejecución de un bucle y salirse de él._
+  
+**Nombre del archivo:** _SECUNDARIO.h_
+
+**Nombre de la clase:** _Persona_
+
+**EVENTOS O FUNCIONES IMPLEMENTADAS**
+
+**class.-** _Es la colección de variables (atributos) y funciones (métodos) que permiten un conjunto de datos y especificar sus procesos que permiten manipular dichos datos._
+
+**private.-** _Los métodos y campos de una clase declarados en private no son accesibles fuera de la unidad donde se declare dicha clase._
+
+**public.-** _Los métodos y campos de una clase declarados en public son libre de acceso desde cualquier otro lugar de un programa._
+  
+**TIPOS DE DATOS O VARIABLES**
+
+**string.-** _Se utiliza para declarar una cadena de caracteres alfabéticos (nombres, frases, etc)._
+
+**int.-** _Se utiliza para declarar números enteros ya sean positivo o negativo (-1, 2, 3, 9, 56,100…)._
+
+**float.-** _Sirve para declarar números decimales (1.20, 5.3, 8.5, 65.2…)._
+  
+**FUNCIONES**
+
+**void.-** _Es una función nula que indica que no retorna valores._ 
+
+**system.-** _Ejecuta subprocesos o comandos del sistema operativo._
+  
+**CONDICIONALES**
+
+**else.-** _Permite determinar qué acción tomar expuesta una condición._
+
+**if.-** _Posibilita definir las acciones a ejecutarse si se cumple una condición determinada._
+  
+**ESTRADAS/SALIDAS STÀNDAR**
+
+**cout.-** _Permite mostrar por pantalla cualquier tipo de dato o mensaje con el operador <<._
+
+**cin.-** _Se utiliza para introducir datos con el operador >>._
+
+**endl.-** _Significa salto de línea es utilizado para dar más estaca o presentación de los datos que se imprimen._ 
+
+**getline.-** _Permite dar un salto de lineo o un espacio entre dos caracteres._
+  
+**SENTENCIAS** 
+
+**break.-** _Detiene la ejecución de un bucle y salirse de él._
+
+**return.-** _Se utiliza para una salida inmediata o para devolver un valor._
 
 ### INSTALACIÒN 🔧
 
@@ -174,32 +174,61 @@ _A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina pa
 
 _Una vez que hayas ingresado al link debes seguir los siguientes pasos:_
 
-1.- Dar clic en el botòn verde que aparece en la pàgina que dice **“descargar gratis para Windows”** que aparece en la pàgina.
+**1.-** _Dar clic en el botòn verde que aparece en la pàgina que dice **“descargar gratis para Windows”** que aparece en la pàgina._
 
-2.- Despuès de  unos minutos se completarà la carga del instalador.
+**2.-** _Despuès de  unos minutos se completarà la carga del instalador._
 
-3.- Una vez ya completado el proceso de descarga debes dirigirte a la carpeta DESCARGAS de tu PC donde encontraràs el archivo ejecutable del programa.
+**3.-** _Una vez ya completado el proceso de descarga debes dirigirte a la carpeta DESCARGAS de tu PC donde encontraràs el archivo ejecutable del programa._
 
-4.- Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn **EJECUTAR COMO ADMINISTRADOR**.
+**4.-** _Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn **EJECUTAR COMO ADMINISTRADOR**._
 
-5.- Damos los permiso correspondientes para la instalaciòn del software y aparecerà una ventana donde muestra el proceso de carga de los archivos del ejecutable.
+**5.-** _Damos los permiso correspondientes para la instalaciòn del software y aparecerà una ventana donde muestra el proceso de carga de los archivos del ejecutable._
 
-6.- Seleccionamos el idioma correspondiente.
+**6.-** _Seleccionamos el idioma correspondiente._
 
-7.- Luego aparece una ventana que muestra el acuerdo de licencia donde debemos dar clic en **ACEPTO**.
+**7.-** _Luego aparece una ventana que muestra el acuerdo de licencia donde debemos dar clic en **ACEPTO**._
 
-8.- Seleccionamos el tipo de instalaciòn està puede ser completa, personalizada, mìnima o segura (selecciona la de tu preferencia), luego da clic en **SIGUIENTE**.
+**8.-** _Seleccionamos el tipo de instalaciòn està puede ser completa, personalizada, mìnima o segura (selecciona la de tu preferencia), luego da clic en **SIGUIENTE**._
 
-9.- Seleccionamos el directorio de destino del ejecutable del programa y damos clic en **INSTALAR**.
+**9.-** _Seleccionamos el directorio de destino del ejecutable del programa y damos clic en **INSTALAR**._
 
-10.- Esperamos a que se complete la barra de carga.
+**10.-** _Esperamos a que se complete la barra de carga._
 
-11.- Una vez completada la instalaciòn damos clic sobre el botòn **TERMINAR**.
+**11.-** _Una vez completada la instalaciòn damos clic sobre el botòn **TERMINAR**._
 
-12.- Automàticamente se abre una ventana para la configuraciòn de la interfaz, seleccionamos el lenguaje para los menùs del software (selecciona el de tu preferencia) luego damos clic sobre el botòn **NEXT**.
+**12.-** _Automàticamente se abre una ventana para la configuraciòn de la interfaz, seleccionamos el lenguaje para los menùs del software (selecciona el de tu preferencia) luego damos clic sobre el botòn **NEXT**._
 
-13.- Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn **NEXT**.
+**13.-** _Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn **NEXT**._
 
-14. Finalmente para completar la configuraciòn da clic sobre le botòn **OK** y automàticamente se abre el programa donde puedes crear tus programas.
+**14.-** _Finalmente para completar la configuraciòn da clic sobre le botòn **OK** y automàticamente se abre el programa donde puedes crear tus programas._
 
 ### EJECUCIÒN ⚙️
+
+_Una vez que termines de realizar nuestro programa debemos seguir los siguientes pasos para ejecutarlo._
+
+_La ejecución puede ser de dos formas._
+
+**FORMA 1 DE EJECUCIÒN**
+
+**1.-** _Nos dirigimos a la barra de herramientas o menú y damos clic sobre **EJECUTAR**._
+
+**2.-** _Después de dar clic sobre **EJECUTAR** aparecerá una lista de opciones donde seleccionamos **COMPILAR**._
+
+**3.-** _Una vez completado el proceso de compilamiento nos dirigimos nuevamente la barra de herramientas o menú y damos clic sobre **EJECUTAR**._
+
+**4.-** _Luego en la lista de opciones seleccionamos **EJECUTAR** entonces aparecerá la ventana del ejecutable del programa donde podrás realizar el procedimiento de tu programa._
+
+**5.-** _O simplemente cuando nos aparece la lista de opciones al dar clic en **EJECUTAR** seleccionamos la opción **COMPILAR Y EJECUTAR** donde se realizaran los dos procesos automáticamente._
+
+**FORMA 2 DE EJECUCION** 
+
+**1.-** _Una vez terminado nuestro programa presionamos la tecla **F9** para **COMPILAR**.
+
+**2.-** _Automáticamente se realiza el proceso de compila miento._
+
+**3.-** _Una vez terminado el proceso de compilamiento presionamos la tecla **F10** para  **EJECUTAR**._
+
+**4.-** _Automáticamente el programa se ejecutarà y mostrar la ventana del ejecutable de programa y realizar el proceso de tu programa._
+
+**5.-** _O simplemente presionamos la tecla **F11** y automáticamente el programa realiza la compilación y ejecución del mismo._
+
