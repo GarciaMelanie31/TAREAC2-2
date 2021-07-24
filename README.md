@@ -172,43 +172,93 @@ _Dev C++ es un entorno de desarrollo integrado para programar en lenguaje C o C+
 
 _A continuaciòn te dejare un link que te llevarà direcamentea a una pàgina para descargar el programa._
 
-https://bloodshed-dev-c.softonic.com/descargar 
+https://sourceforge.net/projects/orwelldevcpp 
 
 _Una vez que hayas ingresado al link debes seguir los siguientes pasos:_
 
-**1.-** _Dar clic en el botòn verde que aparece en la pàgina que dice_ **“descargar gratis para Windows”** _que aparece en la pàgina._
+**1.-** _Dar clic en el botòn verde que aparece en la pàgina que dice_ **“DOWNLOAD”** _que aparece en la pàgina._
 
-![image](https://user-images.githubusercontent.com/86171662/126824084-72bc95dd-e292-4a82-8efa-964060e90181.png)
+![image](https://user-images.githubusercontent.com/86171662/126852693-d456821c-dc70-41a8-8389-7a57af991378.png)
 
 **2.-** _Despuès de  unos minutos se completarà la carga del instalador._
 
-![image](https://user-images.githubusercontent.com/86171662/126824661-c1184e55-6b82-41ce-9f5e-d6d6e09079f9.png)
+![image](https://user-images.githubusercontent.com/86171662/126852765-9b9305da-71b4-4229-a7af-9559cd608fce.png)
 
 **3.-** _Una vez ya completado el proceso de descarga debes dirigirte a la carpeta DESCARGAS de tu PC donde encontraràs el archivo ejecutable del programa._
 
-![image](https://user-images.githubusercontent.com/86171662/126825145-308279ec-a1ec-481a-8616-df1f4e686e42.png)
+![image](https://user-images.githubusercontent.com/86171662/126852555-dc9df8fc-75ac-49a8-92d0-2d4c9a29fbd6.png)
 
 **4.-** _Damos clic derecho sobre el archivo ejecutable, aparacerà una lista despegable en donde debemos seleccionar la opciòn_ **EJECUTAR COMO ADMINISTRADOR**.
 
+![image](https://user-images.githubusercontent.com/86171662/126852113-26b58a8a-2ae5-4805-9d8c-c481ebe30d82.png)
+
 **5.-** _Damos los permiso correspondientes para la instalaciòn del software y aparecerà una ventana donde muestra el proceso de carga de los archivos del ejecutable._
+
+![image](https://user-images.githubusercontent.com/86171662/126852178-90ecd4c9-7aca-433f-b018-64fa18f7cf35.png)
 
 **6.-** _Seleccionamos el idioma correspondiente._
 
+![image](https://user-images.githubusercontent.com/86171662/126852301-6c5020a7-92d6-4f4b-b224-46afa62da7e7.png)
+
 **7.-** _Luego aparece una ventana que muestra el acuerdo de licencia donde debemos dar clic en_ **ACEPTO**.
+
+![image](https://user-images.githubusercontent.com/86171662/126852350-ef1a2658-abef-472a-b073-e404de3262cb.png)
 
 **8.-** _Seleccionamos el tipo de instalaciòn està puede ser completa, personalizada, mìnima o segura (selecciona la de tu preferencia), luego da clic en_ **SIGUIENTE**.
 
+![image](https://user-images.githubusercontent.com/86171662/126852368-5b87d5e8-8540-49a1-b777-ef7547812b5a.png)
+
 **9.-** _Seleccionamos el directorio de destino del ejecutable del programa y damos clic en_ **INSTALAR**.
+
+![image](https://user-images.githubusercontent.com/86171662/126852390-b4cba184-3281-4b79-bb6b-93d8d38a1f3d.png)
 
 **10.-** _Esperamos a que se complete la barra de carga._
 
+![image](https://user-images.githubusercontent.com/86171662/126852414-eb3bd957-cbfc-40f6-98e8-33928ad19739.png)
+
 **11.-** _Una vez completada la instalaciòn damos clic sobre el botòn_ **TERMINAR**.
+
+![image](https://user-images.githubusercontent.com/86171662/126852434-2f088a1e-8d05-4b0c-a527-57787a1cafe5.png)
 
 **12.-** _Automàticamente se abre una ventana para la configuraciòn de la interfaz, seleccionamos el lenguaje para los menùs del software (selecciona el de tu preferencia) luego damos clic sobre el botòn_ **NEXT**.
 
+![image](https://user-images.githubusercontent.com/86171662/126852449-10cd55e9-63b7-4848-86b8-e6ead65ac47f.png)
+
 **13.-** _Luego aprace la siguiente ventana donde podemos cambiar la fuente, el color del software y los iconos del menù (seleciona los cambios de preferencia) luego da clic sobre le botòn_ **NEXT**.
 
+![image](https://user-images.githubusercontent.com/86171662/126852460-531880eb-7f86-4e49-b6cd-f83ad00e47b6.png)
+
 **14.-** _Finalmente para completar la configuraciòn da clic sobre le botòn_ **OK** _y automàticamente se abre el programa donde puedes crear tus programas._
+
+![image](https://user-images.githubusercontent.com/86171662/126852482-e159e0a7-fb4a-443d-a098-26d075f1b319.png) ![image](https://user-images.githubusercontent.com/86171662/126852522-a63e5a1c-ab37-4146-b1ac-b5581447b373.png)
+
+**PASOS PARA INSTALAR DEV C++ EN LINUX**
+
+**1.-** _Ejecute este comando en la terminal_ **sudo apt-get install wine**
+
+![image](https://user-images.githubusercontent.com/86171662/126851554-8a8ac784-f852-4512-a838-1b0951c6f52d.png) ![image](https://user-images.githubusercontent.com/86171662/126851576-a448098a-73a7-4706-8df1-202671a220c8.png)
+
+**2.-** _Descargue Dev C++ desde el siguiente enlance._
+
+https://sourceforge.net/projects/orwelldevcpp/files/ 
+
+![image](https://user-images.githubusercontent.com/86171662/126851600-ad001261-36c2-43a2-ad10-35629eb1b5f0.png)
+
+**3.-** _Vaya al aarchivo descargado y extràigalo._
+
+![image](https://user-images.githubusercontent.com/86171662/126851614-c2d5d250-519d-4c02-b648-b5a6f690346f.png)
+
+**4.-** _Vaya dentro de la carpeta extraìda de Dev C++._
+
+![image](https://user-images.githubusercontent.com/86171662/126851630-7eea4500-4a57-41d9-be42-4ea5482889ea.png) ![image](https://user-images.githubusercontent.com/86171662/126851638-fa0af398-8655-4ad0-b73b-0484f6478dc1.png)
+
+**5.-** _Haga clic derecho en la misma pantalla del directorio Dev C++ y bara la terminal._
+
+![image](https://user-images.githubusercontent.com/86171662/126851654-1f83ae97-ed70-4ef4-b46e-8fbd66c72eb0.png) ![image](https://user-images.githubusercontent.com/86171662/126851664-016cf94e-5d35-44b6-9bbd-568d92222868.png) ![image](https://user-images.githubusercontent.com/86171662/126851672-35532a50-d065-49c4-ac96-95e86e2bdc78.png)
+
+**6.-** _Ejecute el siguiente comando en l aterminal_ **"wine devcpp.exe"**.
+
+![image](https://user-images.githubusercontent.com/86171662/126851680-d8ddd9f0-5514-4dd9-b572-868b45ffba14.png) ![image](https://user-images.githubusercontent.com/86171662/126851685-2589b982-4bfc-4a05-857f-2869ba71c957.png) ![image](https://user-images.githubusercontent.com/86171662/126851692-44728c39-8641-4646-8715-d6ac170fa17c.png)
 
 ### EJECUCIÒN ⚙️
 
